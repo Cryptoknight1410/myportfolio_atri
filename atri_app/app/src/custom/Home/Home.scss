@@ -1,0 +1,75 @@
+$gradient-color: linear-gradient(to right, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+.p-Home.TextBox7{
+    background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+.p-Home.TextBox170{
+  background-image: $gradient-color;
+  background-clip: text;
+  color: transparent;
+}
+.p-Home.TextBox210{
+  background-image: $gradient-color;
+  background-clip: text;
+  color: transparent;
+}
+.p-Home.TextBox134{
+  background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+.p-Home.TextBox293{
+  background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+.p-Home.TextBox303{
+  background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+.p-Home.TextBox324{
+  background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+#root{
+  width: 99vw;
+}
+.p-Home.Book_a_cal::before{
+  content: "";
+  background: $gradient-color;
+  position: absolute;
+  height: 40px;
+  width: 100px;
+  z-index: -1;
+
+}
+.p-Home.TextBox12{
+  background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+.p-Home.view_projects::before{
+  content: "";
+  background: $gradient-color;
+  position: absolute;
+  height: 35px;
+  width: 145px;
+  z-index: -1;
+
+}
+.p-Home.projects{
+  background-image: $gradient-color;
+    background-clip: text;
+    color: transparent;
+}
+.p-Home.Flex62::-webkit-scrollbar{
+  // overflow-x: hidden;
+  display: none;
+}
+.p-Home.Flex77::-webkit-scrollbar{
+  // overflow-x: hidden;
+  display: none;
+}
